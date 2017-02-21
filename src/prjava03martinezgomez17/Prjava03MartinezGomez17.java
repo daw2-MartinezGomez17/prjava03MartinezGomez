@@ -22,7 +22,7 @@ public class Prjava03MartinezGomez17 extends Frame implements ActionListener, Wi
       tfCount.setEditable(false);       // read-only 
       add(tfCount);                // "this" Frame adds tfCount 
  
-      Button btnCount = new Button("Count");  // declare and allocate a Button 
+      Button btnCount = new Button("Counta");  // declare and allocate a Button 
       add(btnCount);               // "this" Frame adds btnCount 
  
       btnCount.addActionListener(this); 
